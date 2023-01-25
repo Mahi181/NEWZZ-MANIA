@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Iqbal Athas, Rhea Mogul and Amy Woodyatt, CNN",
+      "title": "Sri Lanka prime minister says he's willing to resign as protesters storm president's residence - CNN",
+      "description": "Sri Lanka's Prime Minister Ranil Wickremesinghe on Saturday said he was willing to resign and make way for an all-party government to take over, shortly after protesters reportedly breached his official residence in Colombo during demonstrations over the coun…",
+      "url": "https://www.cnn.com/2022/07/09/asia/sri-lanka-protest-president-saturday-intl-hnk/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220709035422-01-shri-lanka-protests-070922-restricted-super-tease.jpg",
+      "publishedAt": "2022-07-09T13:37:00Z",
+      "content": "Colombo, Sri Lanka (CNN)Sri Lanka's Prime Minister Ranil Wickremesinghe on Saturday said he was willing to resign and make way for an all-party government to take over, shortly after protesters repor… [+5217 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Natasha Turak",
+      "title": "Russia is bringing more reserve forces close to Ukraine; Moscow official jailed for anti-war comment - CNBC",
+      "description": "Russia is bringing its reserve forces from all over the country closer to Ukraine to prepare for future incursions, according to U.K. intelligence.",
+      "url": "https://www.cnbc.com/2022/07/09/russia-is-bringing-more-reserve-forces-close-to-ukraine-uk-intelligence-says.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107068594-1653809914979-gettyimages-1240970450-AA_29052022_747709.jpeg?v=1657373587&w=1920&h=1080",
+      "publishedAt": "2022-07-09T13:23:26Z",
+      "content": "Pro-Russian separatist forces are seen in the Donetsk Oblast in eastern Ukraine on May 28, 2022.\r\nRussia is bringing its reserve forces from all over the country closer to Ukraine to prepare for futu… [+5400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Anita Gates",
+      "title": "Tony Sirico, an Eccentric Gangster on ‘The Sopranos,’ Dies at 79 - The New York Times",
+      "description": "A familiar face in Woody Allen movies, he became widely known for his portrayal of Paulie Walnuts on the hit HBO series.",
+      "url": "https://www.nytimes.com/2022/07/08/arts/television/tony-sirico-dead.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/10/multimedia/08sirico-1/08sirico-1-facebookJumbo.jpg",
+      "publishedAt": "2022-07-09T12:28:00Z",
+      "content": "If Im with five other Paulies, he told The New York Times in 2007, imagining a fairly unlikely situation, and somebody yells, Hey, Paulie, I know its for me.\r\nAfter The Sopranos ended in 2007, he oft… [+1628 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tom's Guide"
+      },
+      "author": "Marc McLaren",
+      "title": "Rybakina vs Jabeur live stream: How to watch Wimbledon Final for free and online, time, channels - Tom's Guide",
+      "description": "Watch a Rybakina vs Jabeur live stream to see the women's singles final at Wimbledon 2022",
+      "url": "https://www.tomsguide.com/news/rybakina-vs-jabeur-live-stream-wimbledon-final-2022",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/FjwQ9tfJt4vNQJBVNn4iyY-1200-80.jpg",
+      "publishedAt": "2022-07-09T12:21:39Z",
+      "content": "The Rybakina vs Jabeur live stream will show you the women's singles final at Wimbledon 2022 — and we'll have a new name on the trophy either way. \r\nRead on and we'll show you how to watch the match … [+6944 chars]"
+    }
+  ]
+}
